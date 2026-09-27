@@ -238,4 +238,11 @@ The dashboard provides interactive business insights through:
 
 ---
 
-## ⭐ If you found this project helpful, please consider giving it a Star.
+## 📬 Connect With Me
+
+* GitHub: https://github.com/badgujarram3
+* LinkedIn: https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
+
+---
+
+⭐ If you found this project useful, don’t forget to star the repository!
